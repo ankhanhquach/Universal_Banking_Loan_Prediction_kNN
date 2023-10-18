@@ -1,5 +1,3 @@
-# Universal_Banking_Loan_Prediction_kNN
-
 # Universal Bank Loan Prediction: k-NN Model
 
 This repository contains the machine learning project that employs k-NN classification to predict if a Universal Bank customer will accept a personal loan offer. 
